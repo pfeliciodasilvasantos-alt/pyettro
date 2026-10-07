@@ -1,1 +1,1 @@
-print("")
+print("eu sou gay")
